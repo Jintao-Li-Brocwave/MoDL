@@ -101,11 +101,11 @@ segmentations and their pseudo-color implementation are stored separately in the
 
 2.Place the corresponding labels in the *' deform/label '* directory.
 
-3.Run the data_load.py to convert the images and labels into .npy format.
+3.Run the ***data_load.py*** to convert the images and labels into .npy format.
 
 
 ##Model Training
-1.Run the train.py to train the model.
+1.Run the ***train.py*** to train the model.
 
 2.The trained model will be saved in the *'model'* directory and named *U-RNet+.hdf5*.
 
@@ -115,7 +115,7 @@ segmentations and their pseudo-color implementation are stored separately in the
 ##Model Prediction
 1.Place the test images to be segmented in the *' testraw '* directory.
 
-2.Run the segment_predict.py to make predictions using the trained model.
+2.Run the ***segment_predict.py*** to make predictions using the trained model.
 
 3.The predicted segmentations of patches in three ways (4×4 patches, 4×3 patches, 3×4 patches) and their pseudo-color 
 implementation are stored separately in the corresponding *' results/results_xx/bw '* and 
