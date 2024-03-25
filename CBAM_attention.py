@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 """
 @File    ：CBAM_attention.py
-@Author  ：Jintao Li (Brocwave)
+@Author  ：Jintao Li (Browave)
 @Date    ：2024/3/25 15:09 
 Describe: Write during my pursuit of a Ph.D. degree in the field of 
           Next-Generation Electronic Information Technology in Northwestern Polytechnical University. 
-          Github link: https://github.com/Jintao-Li-Brocwave
+          Github link: https://github.com/Jintao-Li-Browave
 """
 
 import tensorflow as tf

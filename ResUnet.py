@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 """
 @File    ：ResUnet.py
-@Author  ：Jintao Li (Brocwave)
+@Author  ：Jintao Li (Browave)
 @Date    ：2024/3/25 15:36 
 Describe: Write during my pursuit of a Ph.D. degree in the field of 
           Next-Generation Electronic Information Technology in Northwestern Polytechnical University. 
-          Github link: https://github.com/Jintao-Li-Brocwave
+          Github link: https://github.com/Jintao-Li-Browave
 """
 
 from tensorflow.keras.activations import relu
